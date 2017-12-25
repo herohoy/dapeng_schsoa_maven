@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/schoolsoa.iml" filepath="$PROJECT_DIR$/schoolsoa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schoolsoa-api/schoolsoa-api.iml" filepath="$PROJECT_DIR$/schoolsoa-api/schoolsoa-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schoolsoa-service/schoolsoa-service.iml" filepath="$PROJECT_DIR$/schoolsoa-service/schoolsoa-service.iml" />
+    </modules>
+  </component>
+</project>
