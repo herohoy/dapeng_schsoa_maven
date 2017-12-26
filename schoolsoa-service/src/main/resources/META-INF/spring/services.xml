@@ -4,9 +4,11 @@
        xmlns:soa="http://soa-springtag.isuwang.com/schema/service"
        xmlns:context="http://www.springframework.org/schema/context"
        xsi:schemaLocation="http://www.springframework.org/schema/beans
-    http://www.springframework.org/schema/beans/spring-beans.xsd
-    http://soa-springtag.isuwang.com/schema/service
-    http://soa-springtag.isuwang.com/schema/service/service.xsd">
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://soa-springtag.isuwang.com/schema/service
+        http://soa-springtag.isuwang.com/schema/service/service.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd">
 
     <!--参数配置-->
     <context:property-placeholder location="classpath:config_schoolsoa.properties" local-override="false"
