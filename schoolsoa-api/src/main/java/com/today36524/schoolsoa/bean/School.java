@@ -11,7 +11,7 @@ package com.today36524.schoolsoa.bean;
         *
         **/
         public class School{
-        
+
             /**
             *
             **/
@@ -21,7 +21,7 @@ package com.today36524.schoolsoa.bean;
 
             public String id(){ return this.id; }
             public School id(String id){ this.id = id; return this; }
-          
+
             /**
             *
             **/
@@ -31,7 +31,7 @@ package com.today36524.schoolsoa.bean;
 
             public String name(){ return this.name; }
             public School name(String name){ this.name = name; return this; }
-          
+
 
         public String toString(){
           StringBuilder stringBuilder = new StringBuilder("{");
